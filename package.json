@@ -1,5 +1,5 @@
 {
-  "name": "chain",
+  "name": "@ersinfotech/chain",
   "version": "0.0.0",
   "private": true,
   "main": "lib/index.js",
