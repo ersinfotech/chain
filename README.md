@@ -4,7 +4,7 @@ Chaining lodash individual method
 
 ## Usage
 
-```
+```js
 import chain from 'chain';
 import flatten from 'lodash/array/flatten';
 import compact from 'lodash/array/compact';
